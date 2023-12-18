@@ -1,1 +1,1 @@
-export {findStorageRoot} from './storage-webid';
+export {findStorageRoot} from './storage-webid.js';

@@ -1,7 +1,7 @@
 {
   "name": "solid-storage-root",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discover the storage root of a Solid pod.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
