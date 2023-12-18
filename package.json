@@ -1,0 +1,28 @@
+{
+  "name": "solid-storage-root",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Discover the storage root of a Solid pod.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smessie/solid-storage-root.git"
+  },
+  "author": "Ieben Smessaert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smessie/solid-storage-root/issues"
+  },
+  "homepage": "https://github.com/smessie/solid-storage-root#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@comunica/query-sparql-solid": "^2.4.0"
+  }
+}
